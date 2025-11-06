@@ -1,0 +1,3 @@
+Git is a software tool that helps you track versions of code projects. 
+Github is a place to host these code projects!
+
