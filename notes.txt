@@ -2,3 +2,5 @@ Git is a software tool that helps you track versions of code projects.
 Github is a place to host these code projects!
 
 edit: You can add branches to your Git files
+
+edit by new user: pull requests are requests to merge changes from one branch into another
